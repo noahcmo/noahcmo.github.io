@@ -29,9 +29,9 @@
   },
   "interests": [
     {
-      "Baseball",
-      "Staying active",
-      "Beach",
+      "name:" "Baseball",
+      "name:" "Staying active",
+      "name:" "Beach",
     },
   ],
   "skills": [
