@@ -28,10 +28,22 @@
     ]
   },
   "interests": [
+        {
+      "name": "Baseball",
+      "keywords": [
+        "Intramural",
+        "AJA"
+      ]
+    },
     {
-      "name": "Baseball"
-      "name": "Staying active"
-      "name": "Beach"
+      "name": "Staying Active",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Beach",
+      "keywords": [
+      ]
     }
   ],
   "skills": [
