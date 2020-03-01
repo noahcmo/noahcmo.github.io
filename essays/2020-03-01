@@ -1,0 +1,14 @@
+---
+layout: essay
+type: essay
+title: E1, UI Basics Technical Essay 
+# All dates must be YYYY-MM-DD format!
+date: 2020-02-13
+labels:
+  - WOD1
+  - WOD2
+  - WOD3
+---
+  In the WOD Invoice1, we created a table of items that included information such as quantity, price, tax amount, subtotal price, and total prices. In the WOD Invoice2, we simply added a new row into the table that calculated shipping costs dependant on the total price of orders.
+  
+  To complete Invoice1, I set multiple variables for "items" such as price, quantity, and the item name. I also organized the data in sections and set more variables such as extended price (quantity * price), tax rate at 5.75%, subtotal, and total. The place that I stumbled upon in this WOD was when we had to create the table. I had no idea where to begin, so I watched the screencast up until he created the table. I made massive progress after this, and could almost complete the rest on my own. I did, however, get stuck when inputting "price" and "extended price" in the table because there is a dollar sign ($) in the code. I learned that you must put a backslash as well as add another $ when coding these prices into the table. The last thing that I was stumped on was document writing the subtotal, tax, and total rows. I did not know you needed to add a script and so I had to watch the screencast to figure this out. I learned that you could also fix the amount of decimal points to 2 by using the .toFixed code into VS. 
